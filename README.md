@@ -9,4 +9,4 @@ GP
 | Unidad | Enlace                |
 | ------ | --------------------- |
 | 1      | [Unidad 1](./unidad1) |
-| 2      | [Unidad 1](./unidad2) |
+| 1      | [Parte 2](./unidad2) |
